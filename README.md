@@ -53,6 +53,6 @@ To repozytorium jest inspirowane i zapożyczone z witryny [Ministry of Justice's
 O ile nie zaznaczono inaczej, to repozytorium jest publikowane na [licencji MIT][mit].
 
 [moj-security-guidance]: https://github.com/ministryofjustice/security-guidance
-[mit]: LICENCE
+[mit]: LICENSE
 [opi-public-key]: contact/vulnerability-disclosure-encryption.pub
 [opi-security-txt]: contact/vulnerability-disclosure-security.txt
