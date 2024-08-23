@@ -20,8 +20,6 @@ This repo is inspired by, and borrows from, [Ministry of Justice's Security guid
 
 2. Reporting of security vulnerabilities: [**vulnerability-disclosure-security.txt**][opi-security-txt]
 
-3. Acknowledgements: [**acknowledgements.txt**][opi-acknowledgements]
-
 ## Licence
 
 Unless stated otherwise, this repository is released under [the MIT License][mit].
@@ -50,8 +48,6 @@ To repozytorium jest inspirowane i zapożyczone z witryny [Ministry of Justice's
 
 2. Zgłaszanie podatności w zabezpieczeniach: [**vulnerability-disclosure-security.txt**][opi-security-txt]
 
-3. Podziękowania: [**acknowledgements.txt**][opi-acknowledgements]
-
 ## Licencja
 
 O ile nie zaznaczono inaczej, to repozytorium jest publikowane na [licencji MIT][mit].
@@ -60,4 +56,3 @@ O ile nie zaznaczono inaczej, to repozytorium jest publikowane na [licencji MIT]
 [mit]: LICENCE
 [opi-public-key]: contact/vulnerability-disclosure-encryption.pub
 [opi-security-txt]: contact/vulnerability-disclosure-security.txt
-[opi-acknowledgements]: acknowledgements.txt
